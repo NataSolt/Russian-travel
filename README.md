@@ -7,4 +7,4 @@
    , карта и путешествия.
    В этой работе использовались HTML и CSS. Использовались Grid, Flex для выравнивания
     и построения сеток ,анимация для ссылок.
-    ссылка на проект: https://github.com/NataSolt/Russian-travel.git
+    ссылка на проект: https://natasolt.github.io/Russian-travel/index.html
