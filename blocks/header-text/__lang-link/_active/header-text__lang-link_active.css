@@ -1,0 +1,4 @@
+.header-text__lang-link_active {
+    text-decoration-line: underline;
+    text-underline-position: under;
+  }

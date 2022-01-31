@@ -1,0 +1,6 @@
+.header-text {
+    display: flex;
+    max-width: 78px;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
