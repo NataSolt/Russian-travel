@@ -1,6 +1,8 @@
 .header-text {
     display: flex;
-    max-width: 78px;
     justify-content: space-between;
-    align-items: flex-end;
+    list-style: none;
+    padding-left: 0;
+    margin: 18px 0 0 0;
   }
+  

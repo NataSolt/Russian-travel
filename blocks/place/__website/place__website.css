@@ -1,14 +1,13 @@
-.place-website {
+.place__website {
   text-decoration: none;
   align-self: end;
   padding: 0;
   list-style: none;
   margin: 0;
-  min-height: 46px;
 }
 
 @media (max-width: 320px) {
-  .place-website {
+  .place__website {
     margin-left: 16px;
     align-self: auto;
   }
