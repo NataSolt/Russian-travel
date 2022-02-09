@@ -10,6 +10,7 @@
 @media (max-width: 680px) {
   .footer__links {
   flex-direction: column;
+  margin-bottom: 48px;
   }
 }
 
@@ -19,6 +20,5 @@
     min-height: 248px;
     display: flex;
     flex-wrap: wrap;
-    margin-bottom: 48px;
   }
 }
